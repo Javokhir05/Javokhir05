@@ -1,4 +1,4 @@
-👋 Hi, I’m Javokhirbek Ruziboev, but you can call me John if my name is a bit difficult to pronounce.
+👋 Hi, I’m Javokhirbek Ruziboev
 
 👀 I’m passionate about Web Development, Software Development, and exploring the potential of Artificial Intelligence.
 
@@ -9,7 +9,7 @@
 📫 Feel free to reach out to me at roziboyevjavokhir045@gmail.com.
 
 😄 Pronouns: He/Him.
-⚡ Fun fact: I’m pursuing my Bachelor’s degree in Computer Engineering in Poland!
+⚡ Fun fact: I’m studying my Bachelor’s degree in Computer Engineering in Poland!
 
 <!---
 Javokhir05/Javokhir05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
