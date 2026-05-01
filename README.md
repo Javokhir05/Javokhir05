@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Web Development, Software Development, and exploring the potential of Artificial Intelligence.
 
-🌱 I’m currently diving into Js and React.js for front-end development and C# for building Windows applications.
+🌱 I’m currently diving into Js and React.js for front-end development and Nodejs.
 
 💼 I’m actively looking for a Front-End Developer position to kickstart my career and contribute my skills.
 
