@@ -16,7 +16,7 @@
 <a href="https://github.com/Javokhir05">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://javokhirmee.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -29,7 +29,6 @@
 - 🎓 Studying **Computer Engineering** in Poland.
 - 💻 Passionate about Web Development and Software Engineering.
 - ⚛️ Currently working with **JavaScript, React.js and Node.js**.
-- 🔧 Exploring backend development, REST APIs and databases.
 - 🌱 Constantly improving my problem-solving and development skills.
 - 🎯 Looking for a Frontend / Full-Stack Development internship.
 - 🌍 Originally from Uzbekistan, currently based in Warsaw, Poland.
@@ -45,7 +44,7 @@
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 </p>
 
 ### Tools & Development
@@ -60,36 +59,10 @@
 | Project | Description | Technology |
 |---|---|---|
 | [FitTrack](https://github.com/Javokhir05/fittrack) | Fitness tracking application | JavaScript |
-| [DevConnect](https://github.com/Javokhir05/devconnect) | Developer community platform | JavaScript |
+| [DevConnect](https://github.com/Javokhir05/devconnect) | Developer community platform | JavaScript/React |
 | [AI Project](https://github.com/Javokhir05/AI-Project-via-JS) | AI-powered web application | JavaScript |
-| [Education Website](https://github.com/Javokhir05/Education_Website) | Educational website | HTML, CSS |
-| [Chess](https://github.com/Javokhir05/Chess) | Chess project | CSS |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javokhir05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javokhir05&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Javokhir05&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Javokhir05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
+| [Education Website](https://github.com/Javokhir05/Education_Website) | Educational website | JavaScript |
+| [Chess](https://github.com/Javokhir05/Chess) | Chess project | JavaScript |
 
 ---
 
