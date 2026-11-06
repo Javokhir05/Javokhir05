@@ -31,7 +31,7 @@
 - ⚛️ Currently working with **JavaScript, React.js and Node.js**.
 - 🌱 Constantly improving my problem-solving and development skills.
 - 🎯 Looking for a Frontend / Full-Stack Development internship.
-- 🌍 Originally from Uzbekistan, currently based in Warsaw, Poland.
+- 🌍 Originally from Uzbekistan🇺🇿 , currently based in Warsaw, Poland🇵🇱 .
 
 ---
 
